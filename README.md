@@ -9,7 +9,7 @@
  
 This project analyzes the **Black Friday retail sales dataset** to uncover actionable shopping insights using data mining techniques. As a Data Analyst at *Insight Mart Analytics*, the goal is to understand customer purchase behavior, segment shoppers, discover product associations, and detect anomalies.
  
-**Live Streamlit App:** [🔗 Click here to view the dashboard](#) *(replace with your deployed link)*
+**Live Streamlit App:** [🔗 Click here to view the dashboard](#https://hlakg9yxu6bgdqb757i6hj.streamlit.app/) *(replace with your deployed link)*
  
 ---
  
